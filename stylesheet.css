@@ -1,6 +1,6 @@
 body {
     background-color: aqua;
-    background-image: url('../Keshav/images/keshavbabu.jpg'); /*url('./Keshav/images/keshavbabu.jpg'); use single dot*/ 
+    background-image: url('./images/keshavbabu.jpg'); /*url('./Keshav/images/keshavbabu.jpg'); use single dot*/ 
     background-repeat: no-repeat;
     }
     
