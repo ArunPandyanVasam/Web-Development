@@ -1,7 +1,11 @@
 body {
-    
+    height: 100vh;
+    background-color: aqua;
     background-image: url('./images/keshavbabu.png'); /*url('./Keshav/images/keshavbabu.jpg'); use single dot*/ 
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    background-position: center;
+    /**/ 
     }
     
     .profile-picture {
@@ -44,3 +48,5 @@ body {
     color: black;
     background-color: white;
     }
+
+   
