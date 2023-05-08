@@ -49,4 +49,22 @@ body {
     background-color: white;
     }
 
+    .menu_bar {
+
+        background: rgb(0, 100, 0);
+        text-align: center;
+    }
+
+    .menu_bar ul {
+        display: inline-flex;
+        list-style: none;
+        color: white;
+    }
+
+    .menu_bar ul li {
+        width: 120px;
+        margin: 0px;
+        padding: 0px;
+    }
+
    
