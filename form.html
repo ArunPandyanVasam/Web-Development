@@ -1,0 +1,67 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment-4</title>
+    <link rel="stylesheet" href="_css/design.css">
+    <!--Arun Pandyan Vasam-->
+    <!--10/April/2023-->
+</head>
+<body>
+    <h1>Assignment4</h1>
+    <h1>Arun Pandyan Vasam</h1>
+    <h1>Instructor: Sukhbir Tatla</h1>
+    <div id="content">
+       <h1>Information Form</h1> 
+       <form action="thank-you.html" method="get">
+            <label for="firstname">First Name:
+                <input type="text" placeholder="Enter First Name" width="40"> 
+            </label>
+            <br>
+            <br>
+            <label for="lastname">Last Name: 
+                <input type="text"  placeholder="Enter Last Name" width="40"> 
+            </label>
+            <br>
+            <br>
+            Gender: <input type="radio" name="gender" value="Female" required> Female <input type="radio" name="gender" value="Male" required> Male 
+            <br>
+            <br>
+            <label for="email">Email:
+                <input type="email" placeholder="Email@gmail.com" width="50" required>
+            </label>
+            <br>
+            <br>  
+            Where would you like to visit? &nbsp; U.S.<input type="checkbox" name="us" value="US"> Brazil<input type="checkbox" name="brazil" value="Brazil"> Japan<input type="checkbox" name="japan" value="Japan">
+            <br>
+            <br>
+            <label for="select">What campus are you located on?</label>
+            <select name="college" id="college">
+                <option value="-1">Please Select</option>
+                <option value="-1">Davis</option>
+                <option value="-1">Trafalgar</option>
+                <option value="-1">HMC</option>
+                <option value="-1">STC</option>
+            </select>
+            <br>
+            <br>
+            <fieldset>
+                <legend>Please your most favourite</legend>
+                <input type="radio" name="frenchfries" value="French Fries"> French Fries
+                <input type="radio" name="pizza" value="Pizza"> Pizza
+                <input type="radio" name="burger" value="Burger"> Burger
+            </fieldset>
+            <br>
+            <br>
+            <label for="comment">Tell us about yourself</label>
+            <textarea name="comment" id="comment" cols="40" rows="4"></textarea>
+            <br>
+            <br>
+            <input type="submit" value="Submit"> 
+            &nbsp; &nbsp; &nbsp;
+            <input type="reset" value="Reset">
+       </form>
+    </div>
+</body>
+</html>

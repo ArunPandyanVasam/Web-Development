@@ -1,0 +1,26 @@
+/*Arun Pandyan Vasam*/
+/*10/April/2023*/
+body {
+    display: block;
+    margin: 50px;
+    background-color: #66a5ad;
+    background-image: url('../_images/keshavbabu.png');
+    opacity: 0.9;
+}
+
+h1 {
+    text-align: center;
+}
+
+#content {
+    width: 500px;
+    margin: 0px auto;
+    background-color: #c4dfe6;
+    padding: 50px;
+}
+
+label {
+    width: 170px;
+    display: inline-block;
+    font-size: 18px;
+}
