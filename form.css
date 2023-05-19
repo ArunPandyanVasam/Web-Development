@@ -2,10 +2,10 @@
 /*10/April/2023*/
 body {
     display: block;
-    margin: 50px;
+    margin-top: 5%;
     background-color: #66a5ad;
-    background-image: url('../_images/keshavbabu.png');
-    opacity: 0.9;
+    background-image: url('./_images/Keshava.jpg');
+    opacity: 0.8;
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
 #content {
     width: 500px;
     margin: 0px auto;
-    background-color: #c4dfe6;
+    background-color: #BC3908;
     padding: 50px;
 }
 

@@ -1,7 +1,7 @@
 body {
     height: 100vh;
     background-color: aqua;
-    background-image: url('./images/Keshava.jpg'); /*url('./Keshav/images/keshavbabu.jpg'); use single dot*/ 
+    background-image: url('./_images/Keshava.jpg'); /*url('./Keshav/images/keshavbabu.jpg'); use single dot*/ 
     /*background-repeat: no-repeat;*/
     background-size: cover;
     background-position: center;
@@ -20,7 +20,7 @@ body {
     
     .profile-name {
     text-align: center;
-    padding: 30px;
+    padding: 20px;
     font-size: 50px;
     }
     
@@ -28,7 +28,7 @@ body {
     font-size: 25px;
     border: 1px solid black;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 20px;
     border-width: 5px;
     width: 450px;
