@@ -4,7 +4,7 @@ body {
     display: block;
     margin-top: 5%;
     background-color: #66a5ad;
-    background-image: url('./_images/Keshava.jpg');
+    background-image: url('./Keshava.jpg');
     opacity: 0.8;
 }
 
