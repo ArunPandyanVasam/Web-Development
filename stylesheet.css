@@ -1,7 +1,7 @@
 body {
     height: 100vh;
     background-color: aqua;
-    background-image: url('./Keshava.jpg'); /*url('./Keshav/images/keshavbabu.jpg'); use single dot*/ 
+    background-image: url('../Keshav/Keshava.jpg'); /*url('./Keshav/images/keshavbabu.jpg'); use single dot*/ 
     /*background-repeat: no-repeat;*/
     background-size: cover;
     background-position: center;
