@@ -2,7 +2,6 @@
 /*10/April/2023*/
 body {
     display: block;
-    margin-top: 5%;
     background-color: #66a5ad;
     background-image: url('./images/Keshava.jpg');
     opacity: 0.8;
@@ -14,7 +13,7 @@ h1 {
 
 #content {
     width: 500px;
-    margin: 0px auto;
+    margin: 100px auto;
     background-color: #BC3908;
     padding: 50px;
 }
