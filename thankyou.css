@@ -1,3 +1,41 @@
-.content {
+body {
+    display: block;
+    background-color: #66a5ad;
     background-image: url('./images/Keshava.jpg');
+    opacity: 0.8;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content {
+    width: 500px;
+    margin: 100px auto;
+    background-color: #BC3908;
+    padding: 50px;
+}
+
+label {
+    width: 170px;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.menu_bar {
+
+    background-color: #f89221;
+    text-align: center;
+}
+
+.menu_bar ul {
+    display: inline-flex;
+    list-style: none;
+    color: white;
+}
+
+.menu_bar ul li {
+    width: 120px;
+    margin: 0px;
+    padding: 0px;
 }
