@@ -1,9 +1,13 @@
 body {
-    display: block;
-    background-color: #66a5ad;
-    background-image: url('./images/Keshava.jpg');
+    height: 100vh;
+    background-color: aqua;
+    background-image: url('./images/Keshava.jpg'); /*url('./Keshav/images/keshavbabu.jpg'); use single dot*/ 
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    background-position: center;
     opacity: 0.8;
-}
+    /**/ 
+    }
 
 h1 {
     text-align: center;
