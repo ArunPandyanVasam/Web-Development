@@ -52,7 +52,8 @@ body {
 
     .menu_bar {
 
-        background-color: #f89221;
+        /*background-color: #f89221;*/
+        background-color: black;
         text-align: center;
     }
 
