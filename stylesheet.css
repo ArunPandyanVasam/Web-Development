@@ -71,7 +71,22 @@ body {
 
     footer {
         background-color: black;
+        text-align: center;
+        margin-top: 100px;
         
+        height: 100px;
+    }
+
+    footer ul {
+        display: inline-flex;
+        list-style: none;
+        color: white;
+    }
+
+    footer ul li {
+        width: 120px;
+        margin: 20px;
+        padding: 0px;
     }
 
    
